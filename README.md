@@ -1,4 +1,4 @@
-# spring-boot-books
+# spring-boot-books-authors
 
 A Spring Boot REST API for managing **books** and **authors**, built with **PostgreSQL** and containerized using **Docker**. The project is deployed on an **AWS EC2** instance.
 
