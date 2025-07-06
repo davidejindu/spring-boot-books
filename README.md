@@ -23,11 +23,4 @@ A Spring Boot REST API for managing **books** and **authors**, built with **Post
 - Dockerized backend for easy deployment
 - Environment variables via `.env` file
 
----
 
-## 🐳 Run with Docker Compose
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/davidejindu/spring-boot-books.git
-   cd spring-boot-books
